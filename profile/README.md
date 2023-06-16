@@ -6,6 +6,7 @@
 
    
    ## 📫 با ویجیاتو در ارتباط باشید
+   علاوه بر وبسایت [ویجیاتو](https://vigiato.net) و کانال‌های یوتیوب [ویجیاتو](https://www.youtube.com/@Vigiato) و [ویجیاتو پلاس](https://www.youtube.com/@VigiatoPLUS)، شما می‌تونید از طریق مسیرهای زیر هم با ما در شبکه‌های اجتماعی در ارتباط باشید و از جدیدترین اخباری دنیای سرگرمی باخبر بشید.
 <br>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](hinfo@vigiato.net)
@@ -15,8 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vigiatonet)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/#)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vigiatonet)
-[![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vigiato)
-[![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VigiatoPLUS)
+
 
 <br><br>
 
