@@ -1,26 +1,28 @@
+# Vigiatonet Archive
 
-<div dir="rtl">
+This GitHub organization is a public archive of historical Vigiatonet projects.
 
-# 👋 سلام از ویجیاتو
-   سلام به گیتهاب [ویجیاتو](https://vigiato.net) خوش اومدید. ویجیاتو بزرگترین رسانه‌ی آنلاین سرگرمی فارسی زبانه که به صورت تخصصی به تولید محتوا ویدئو گیم می‌پردازه. اینجا می‌تونید به پروژه‌های متن باز ما دسترسی داشته باشید. 
+The repositories here are preserved for reference, documentation, and historical continuity. They are not active product repositories, and most projects are no longer maintained.
 
-   
-   ## 📫 با ویجیاتو در ارتباط باشید
-   علاوه بر وبسایت [ویجیاتو](https://vigiato.net) و کانال‌های یوتیوب [ویجیاتو](https://www.youtube.com/@Vigiatonet) و [ویجیلند](https://www.youtube.com/@VigilandTeam)، شما می‌تونید از طریق مسیرهای زیر هم با ما در شبکه‌های اجتماعی در ارتباط باشید و از جدیدترین اخباری دنیای سرگرمی باخبر بشید.
-<br>
+## Archived Projects
 
-[![Email](https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](hinfo@vigiato.net)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/vigiato)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vigiatonet)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vigiatonet)
-[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/vigiatonet)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/#)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vigiatonet)
+- `brand-assets` - Historical Vigiato, VigiCity, Vigiland, and Vinama brand assets.
+- `vigicity-game-assets` - Historical VigiCity Minecraft game assets, maps, and public server material.
+- `vigicity-web` - Later preserved VigiCity React/Vite frontend.
+- `vigicity-manager` - Preserved VigiCity Laravel backend and management API.
+- `minecraft-challenges` - Historical Minecraft challenge and video list.
+- `psu-calculator` - Historical PSU calculator project.
+- `bottleneck-calculator` - Historical bottleneck calculator project.
+- `donation-payment-api` - Historical Django/DRF donation and payment API.
+- `countdown-timer-plugin` - Historical Minecraft countdown timer plugin.
+- `Vigiland-MC-Server` - Superseded historical VigiCity frontend snapshot.
 
+## Archive Notes
 
-<br><br>
+Some repositories were renamed, reorganized, or sanitized before publication so the archive is easier to understand and safer to preserve publicly.
 
-   ***
+Private records, user exports, runtime server data, credentials, and local cleanup material are intentionally excluded from the public archive.
 
-  
-  </div>
+## Status
+
+This organization is kept online as a historical record. New development is not expected here.
